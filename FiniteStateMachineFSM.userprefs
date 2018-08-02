@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FSM/TestFSM/LightTestFSMSubFSM.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FSM/TestFSM/CubeMoveStateTest.cs" Line="7" Column="16" />
+      <File FileName="Assets/Scripts/FSM/TestFSM/CubeTestFSM.cs" Line="84" Column="2" />
+      <File FileName="Assets/Scripts/FSM/TestFSM/LightTest.cs" Line="7" Column="16" />
+      <File FileName="Assets/Scripts/FSM/TestFSM/LightTestFSMSubFSM.cs" Line="143" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
